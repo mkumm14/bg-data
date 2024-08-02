@@ -1,0 +1,103 @@
+1	Who is your hero?
+2	If you could live anywhere, where would it be?
+3	What is your biggest fear?
+4	What is your favorite family vacation?
+5	What would you change about yourself if you could?
+6	What really makes you angry?
+7	What motivates you to work hard?
+8	What is your favorite thing about your career?
+9	What is your biggest complaint about your job?
+10	What is your proudest accomplishment?
+11	What is your child's proudest accomplishment?
+12	What is your favorite book to read?
+13	What makes you laugh the most?
+14	What was the last movie you watched?
+15	What did you want to be when you were small?
+16	Do you have children?
+17	If you could choose to do anything for a day, what would it be?
+18	What is your favorite game or sport to watch and play?
+19	Would you rather ride a bike, ride a horse, or drive a car?
+20	What would you sing at Karaoke night?
+21	What two radio stations do you listen to in the car the most?
+22	Which would you rather do: wash dishes, mow the lawn, clean the bathroom, or vacuum the house?
+23	If you could hire someone to help you, would it be with cleaning, cooking, or yard work?
+24	If you could only eat one meal for the rest of your life, what would it be?
+25	Who is your favorite author?
+   26. What is your nickname?
+   27. Do you like or dislike surprises?
+   28. What do you like to do in the evening?
+   29. Where would you like to vacation?
+   30. Would you rather win the lottery or work at the perfect job? 
+   31. Who would you want to be stranded with on a deserted island?
+   32. If money was no object, what would you do all day?
+   33. If you could go back in time, what year would you travel to?
+   34. How would your friends describe you?
+   35. What are your hobbies?
+   36. What is the best gift you have been given?
+   37. What is the worst gift you have received?
+   38. Aside from necessities, what one thing could you not go a day without?
+   39. List two pet peeves.
+   40. Where do you see yourself in five years?
+   41. How many pairs of shoes do you own?
+   42. If you were a super-hero, what powers would you have?
+   43. What would you do if you won the lottery?
+   44. What form of public transportation do you prefer? (air, boat, train, bus, car, etc.)
+   45. What's your favorite zoo animal?
+   46. If you could go back in time to change one thing, what would it be?
+   47. Who would you share a meal with?
+   48. How many pillows do you sleep with?
+   49. What's the longest you've gone without sleep?
+   50. What's the tallest building you've been to the top in?
+51. Would you rather trade intelligence for looks or looks for intelligence?
+   52. How often do you buy clothes?
+   53. Have you ever had a secret admirer?
+   54. What's your favorite holiday?
+   55. What's the most daring thing you've ever done?
+   56. What was the last thing you recorded on TV?
+   57. What was the last book you read?
+   58. What's your favorite type of foreign food?
+   59. Are you a clean or messy person?
+   60. Who would you want to play you in a movie of your life?
+   61. How long does it take you to get ready in the morning?
+   62. What kitchen appliance do you use every day?
+   63. What's your favorite restaurant?
+   64. What's your favorite family recipe?
+   65. Do you love or hate rollercoasters?
+   66. What's your favorite family tradition?
+   67. What is your favorite childhood memory?
+   68. What's your favorite movie?
+   69. How old were you when you learned Santa wasn't real? 
+   70. Is your glass half full or half empty?
+   71. What's the craziest thing you've done in the name of love?
+   72. What three items would you take with you on a deserted island?
+   73. What was your favorite subject in school?
+   74. What's the most unusual thing you've ever eaten?
+   75. Do you collect anything?
+76. Is there anything you wished would come back into fashion?
+   77. Are you an introvert or an extrovert?
+   78. Which of the five senses would you say is your strongest?
+   79. Have you ever had a surprise party? 
+   80. Are you related or distantly related to anyone famous?
+   81. What do you do to keep fit?
+   82. Does your family have a "motto" - spoken or unspoken?
+   83. What law you would like to create?
+   84. Who was your favorite teacher in school?
+   85. What one thing do you think of the most each day?
+   86. If you had a warning label, what would yours say?
+   87. What song would you say best sums you up?
+   88. What celebrity would you like to meet at Starbucks for a cup of coffee?
+   89. Who was your first crush?
+90. What's the most interesting thing you can see out of your office or kitchen window?
+   91. On a scale of 1-10 how funny would you say you are?
+   92. Where do you see yourself in 10 years?
+   93. What was your first job?
+   94. If you could join any past or current music group which, would you want to join?
+   95. How many languages do you speak?
+   96. What is your favorite family holiday tradition?
+   97. Who is the most intelligent person you know?
+   98. If you had to describe yourself as an animal, which one would it be?
+   99. What is one thing you will never do again?
+ 100. Who knows you the best?
+
+
+
